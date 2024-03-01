@@ -20,7 +20,7 @@
 
 💻 **Technical Skills**:
 - **Languages**: Python, C/C++, Java, JavaScript, SQL, HTML/CSS, Ruby
-- **Tools/Technologies**: MongoDB, AWS Lambda, AWS Cost Management, Pandas, Numpy, Git, Postman, PostgreSQL, Node.js, Agile
+- **Tools/Technologies**: React.js, MongoDB, AWS Lambda, AWS Cost Management, Pandas, Numpy, Git, Postman, PostgreSQL, Node.js, Agile
 
 🔗 **Connect**: [LinkedIn](https://linkedin.com/in/harshini-bharani)
 
