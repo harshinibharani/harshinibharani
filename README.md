@@ -10,9 +10,9 @@
 - **Software Engineer Intern** at Scienaptic Systems: Flask, MongoDB, PostgreSQL, Spring Boot, Angular
 
 🛠️ **Projects**:
-- **Fitness Tracker** _(Ongoing)_: MERN Stack Web App
-- **COVID Pneumonia Severity Assessment**: Deep Learning, Python, TensorFlow, Keras
-- **Titanic Survival Prediction**: Machine Learning, Random Forest, SVM, MLP, Feature Importance
+- **Fitness Tracker** - MERN Stack Web App
+- **COVID Pneumonia Severity Assessment** - Deep Learning, Python, TensorFlow, Keras
+- **Titanic Survival Prediction** - Machine Learning, Random Forest, SVM, MLP, Feature Importance
 - **Patient care** – C, Priority Queue
 - **Weather Wiz** - Python, API
 - **Bookstore Application** -  PostgreSQL, Spring Boot, Angular
