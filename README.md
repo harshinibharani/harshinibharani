@@ -1,26 +1,71 @@
-👋 Hey there! I am Harshini Bharanidharan, a passionate Computer Science graduate student at the University of Massachusetts Amherst. With a keen interest in technology and a knack for problem-solving, I am on a journey to explore the realms of software engineering and machine learning.
+## 👋 Hi, I'm Harshini Bharanidharan
 
-🎓 Currently pursuing my **MS in Computer Science**, I hold a B.Tech in Information Technology from Sri Sivasubramaniya Nadar College of Engineering, where I cultivated a solid foundation in database design, machine learning, and software engineering principles.
+I'm a passionate and driven software engineer with a Master’s in Computer Science from the **University of Massachusetts Amherst**, and a strong foundation in distributed systems, cloud platforms, and data engineering. I’m actively seeking **Software Development** and **Data Engineering** roles where I can leverage my technical expertise to build scalable systems and data-driven solutions.
 
-🔍 **Relevant Courses**: Database Design, Systems for Data Science, Machine Learning, Software Engineering, Secure Distributed Systems, Statistics
+---
 
-💼 **Experience**:
-- **Graduate Trainee** at Freshworks: Cloud Governance, AWS Services, Python, Django, JavaScript
-- **Software Developer Intern** at ITK Education Services: ERP Development, ZOHO Creator, Deluge
-- **Software Engineer Intern** at Scienaptic Systems: Flask, MongoDB, PostgreSQL, Spring Boot, Angular
+### 🎓 Education
 
-🛠️ **Projects**:
-- **Fitness Tracker** - MERN Stack Web App
-- **COVID Pneumonia Severity Assessment** - Deep Learning, Python, TensorFlow, Keras
-- **Titanic Survival Prediction** - Machine Learning, Random Forest, SVM, MLP, Feature Importance
-- **Patient care** – C, Priority Queue
-- **Weather Wiz** - Python, API
-- **Bookstore Application** -  PostgreSQL, Spring Boot, Angular
-- **Todo Manager** - Ruby
+* **MS in Computer Science**, University of Massachusetts Amherst
+  *Graduated: May 2025 | GPA: 3.94/4.0*
+* **B.Tech in Information Technology**, SSN College of Engineering
+  *Graduated: June 2022*
 
-💻 **Technical Skills**:
-- **Languages**: Python, C/C++, Java, JavaScript, SQL, HTML/CSS, Ruby
-- **Tools/Technologies**: React.js, MongoDB, AWS Lambda, AWS Cost Management, Pandas, Numpy, Git, Postman, PostgreSQL, Node.js, Agile
+---
 
-🔗 **Connect**: [LinkedIn](https://linkedin.com/in/harshini-bharani)
+### 📚 Relevant Courses
 
+Database Design and Implementation, Systems for Data Science, Machine Learning, Software Engineering, Distributed and Operating Systems, Computer and Network Security, Applied Statistics
+
+---
+
+### 💼 Experience
+
+* **Intern**, Ascendion
+  Automated LLM-based ETL pipelines, integrated OpenAI APIs for semantic search, and built real-time data processing interfaces with Streamlit.
+
+* **Software Engineer**, Freshworks
+  Built cloud governance tools, cost intelligence dashboards, and CI/CD pipelines using Python, Django, AWS SDK, Docker, and Jenkins.
+
+* **Software Developer Intern**, ITK Education Services
+  Developed an ERP system using ZOHO Creator and Deluge, improving multi-role business workflows.
+
+---
+
+### 🛠️ Projects
+
+* **Distributed Stock Trading Platform**
+  Microservices-based system with gRPC, LRU caching, replication, and AWS deployment.
+
+* **Cricket Performance Analysis** – PySpark, Apache Spark MLlib, Random Forest
+
+* **Fitness Tracker** – MERN Stack Web App with Nutrition API integration
+
+* **COVID-19 Severity Detection** – CNN, Xception, FPN in TensorFlow/Keras
+
+* **Bookstore App** – Spring Boot, PostgreSQL, Angular
+
+* **Todo Manager** – Ruby CLI app
+
+* **Weather Wiz** – Python + APIs
+
+---
+
+### 💻 Technical Skills
+
+**Languages**: Python, Java, C/C++, JavaScript, SQL, Ruby
+**Technologies**: AWS, Docker, gRPC, PostgreSQL, MongoDB, Node.js, React.js, Pandas, Numpy, Jenkins, Git, REST APIs
+
+---
+
+### 🔎 Looking for Opportunities
+
+I'm currently open to **Software Development Engineer (SDE)** and **Data Engineering** roles. 
+
+---
+
+### 🔗 Connect with Me
+
+* [LinkedIn](https://linkedin.com/in/harshini-bharani)
+* [Portfolio](https://harshinibharani.github.io/)
+* 📧 [bharshini22@gmail.com](mailto:bharshini22@gmail.com)
